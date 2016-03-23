@@ -79,6 +79,9 @@
 
 ![alt tag](assets/screenshot1.png "Slider Preview")
 
+The Meet Eat Read Template is a flexible template. This is an easy to use template, where one can showcase of your information and content on a template. The navigation includes automatic transitions, or next and previous buttons. Its usage may vary from a image, banner, carousel or content presenter. This was developed using HTML, CSS and JavaScript, and it is mostly customizable, from size, font, and all the different time durations.
+
+The Template includes a dedicated folder for the Image Source and for the Assets.
 
 ### Feature List
 
