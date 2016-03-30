@@ -92,7 +92,7 @@ The Template includes a dedicated folder for the Image Source and for the Assets
 
 ##### Test Page
 
-Please visit ou [Test Page](http://mer.calli.tech/) and see the project working:
+Please visit our [Test Page](http://mer.calli.tech/) and see the project working:
 
 <span class="image">
   <a href="http://mer.calli.tech/" title="link">
