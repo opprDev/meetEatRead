@@ -112,6 +112,8 @@ Bruno Oliveira ([bruno-oliveira](https://github.com/bruno-oliveira))
 
 Francisco Maria Calisto ([FMCalisto](https://github.com/FMCalisto))
 
+Bruno Cardoso ([bdcardoso](https://github.com/bdcardoso))
+
 
 #### License
 
