@@ -90,6 +90,10 @@ The Template includes a dedicated folder for the Image Source and for the Assets
 
 ### Project Information
 
+##### Buy
+
+[CodeGrape](http://www.codegrape.com/item/meet-eat-read/8169)
+
 ##### Test Page
 
 Please visit our [Test Page](http://mer.calli.tech/) and see the project working:
